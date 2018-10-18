@@ -1,0 +1,17 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mBowlingGameTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mIf you roll only once the ball[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  and you knock down one pin[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - you should have 1 point (One Ball One Pin).[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  and you never knock down a pin[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - you should have 0 point (One Ball No Pin).[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mDuring a game, if you lanch 20 times the roll[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  Missing all pins (gutter game)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - gives no points (All Balls No Pin)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  Knocking down ONE pin each time[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - gives you 20 points (All Balls Twenty Points)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mTest One spare[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- You should have a bonus[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mTest One STRIKE[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- You should have a bonus[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mTest PERFECT GAME[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- AROUND 300 POINTS[0m[0m

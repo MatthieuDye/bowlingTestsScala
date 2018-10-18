@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/matthieu/Bureau/bowling_scala/src/main/scala/bowling/Game.scala:66:5: not found: value g[0m
+[0m[[0m[31merror[0m] [0m[0m    g.roll(10)[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

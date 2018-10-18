@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/matthieu/Bureau/bowling_scala/src/test/scala/bowling/BowlingGameTest.scala:69:22: not found: value strikeGame[0m
+[0m[[0m[31merror[0m] [0m[0m      assert(300 === strikeGame.score())[0m
+[0m[[0m[31merror[0m] [0m[0m                     ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
