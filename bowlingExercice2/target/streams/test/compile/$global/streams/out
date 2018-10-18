@@ -1,4 +1,28 @@
-[0m[[0m[31merror[0m] [0m[0m/home/matthieu/Bureau/bowling_scala/src/test/scala/bowling/BowlingGameTest.scala:69:22: not found: value strikeGame[0m
-[0m[[0m[31merror[0m] [0m[0m      assert(300 === strikeGame.score())[0m
-[0m[[0m[31merror[0m] [0m[0m                     ^[0m
-[0m[[0m[31merror[0m] [0m[0mone error found[0m
+[0m[[0m[31merror[0m] [0m[0m/home/matthieu/bowlingTestsScala/bowlingExercice2/src/test/scala/BowlingGameTest.scala:1:12: object scalacheck is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.scalacheck._[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/matthieu/bowlingTestsScala/bowlingExercice2/src/test/scala/BowlingGameTest.scala:3:36: not found: type Properties[0m
+[0m[[0m[31merror[0m] [0m[0mobject StringSpecification extends Properties("String") {[0m
+[0m[[0m[31merror[0m] [0m[0m                                   ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/matthieu/bowlingTestsScala/bowlingExercice2/src/test/scala/BowlingGameTest.scala:3:47: no arguments allowed for nullary constructor Object: ()Object[0m
+[0m[[0m[31merror[0m] [0m[0mobject StringSpecification extends Properties("String") {[0m
+[0m[[0m[31merror[0m] [0m[0m                                              ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/matthieu/bowlingTestsScala/bowlingExercice2/src/test/scala/BowlingGameTest.scala:5:3: not found: value property[0m
+[0m[[0m[31merror[0m] [0m[0m  property("startsWith") = forAll { (a: String, b: String) =>[0m
+[0m[[0m[31merror[0m] [0m[0m  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/matthieu/bowlingTestsScala/bowlingExercice2/src/test/scala/BowlingGameTest.scala:5:28: not found: value forAll[0m
+[0m[[0m[31merror[0m] [0m[0m  property("startsWith") = forAll { (a: String, b: String) =>[0m
+[0m[[0m[31merror[0m] [0m[0m                           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/matthieu/bowlingTestsScala/bowlingExercice2/src/test/scala/BowlingGameTest.scala:9:3: not found: value property[0m
+[0m[[0m[31merror[0m] [0m[0m  property("concatenate") = forAll { (a: String, b: String) =>[0m
+[0m[[0m[31merror[0m] [0m[0m  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/matthieu/bowlingTestsScala/bowlingExercice2/src/test/scala/BowlingGameTest.scala:9:29: not found: value forAll[0m
+[0m[[0m[31merror[0m] [0m[0m  property("concatenate") = forAll { (a: String, b: String) =>[0m
+[0m[[0m[31merror[0m] [0m[0m                            ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/matthieu/bowlingTestsScala/bowlingExercice2/src/test/scala/BowlingGameTest.scala:13:3: not found: value property[0m
+[0m[[0m[31merror[0m] [0m[0m  property("substring") = forAll { (a: String, b: String, c: String) =>[0m
+[0m[[0m[31merror[0m] [0m[0m  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/matthieu/bowlingTestsScala/bowlingExercice2/src/test/scala/BowlingGameTest.scala:13:27: not found: value forAll[0m
+[0m[[0m[31merror[0m] [0m[0m  property("substring") = forAll { (a: String, b: String, c: String) =>[0m
+[0m[[0m[31merror[0m] [0m[0m                          ^[0m
+[0m[[0m[31merror[0m] [0m[0m9 errors found[0m

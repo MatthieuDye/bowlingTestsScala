@@ -1,0 +1,21 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/matthieu/bowlingTestsScala/bowlingExercice2/target/scala-2.12/bowling_scala_2.12-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	bowling/Game.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/matthieu/bowlingTestsScala/bowlingExercice2/target/scala-2.12/classes/bowling/Game.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	bowling/Roll.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/matthieu/bowlingTestsScala/bowlingExercice2/target/scala-2.12/classes/bowling/Roll.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	bowling/Frame$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/matthieu/bowlingTestsScala/bowlingExercice2/target/scala-2.12/classes/bowling/Frame$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	bowling/Frame.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/matthieu/bowlingTestsScala/bowlingExercice2/target/scala-2.12/classes/bowling/Frame.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	bowling/Game$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/matthieu/bowlingTestsScala/bowlingExercice2/target/scala-2.12/classes/bowling/Game$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	bowling/Roll$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/matthieu/bowlingTestsScala/bowlingExercice2/target/scala-2.12/classes/bowling/Roll$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	bowling/TenthFrame.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/matthieu/bowlingTestsScala/bowlingExercice2/target/scala-2.12/classes/bowling/TenthFrame.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	bowling[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/matthieu/bowlingTestsScala/bowlingExercice2/target/scala-2.12/classes/bowling[0m
+[0m[[0m[0mdebug[0m] [0m[0m	bowling/TenthFrame$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/matthieu/bowlingTestsScala/bowlingExercice2/target/scala-2.12/classes/bowling/TenthFrame$.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
